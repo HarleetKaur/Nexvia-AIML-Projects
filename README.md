@@ -2,9 +2,9 @@
 
 This repository contains both assigned capstone projects.
 
-## AIML-03 — Large-Scale Personalized Recommendation Engine
+## Project 2 (AIML-03) — Large-Scale Personalized Recommendation Engine
 
-Location: `AIML-03/`
+Location: `Project-2/`
 
 Two-stage recommendation system with two-tower retrieval, FAISS,
 DCN and Wide & Deep ranking, Redis caching, FastAPI, Triton inference,
@@ -18,11 +18,11 @@ execution has not been independently verified.
 Original repository:
 https://github.com/HarleetKaur/recsys-engine
 
-## AIML-04 — Autonomous Driving Perception Stack
+## Project 1 (AIML-04) — Autonomous Driving Perception Stack
 
-Location: `AIML-04/`
+Location: `Project-1/`
 
-See `AIML-04/README.md` for implementation details,
+See `Project-1/README.md` for implementation details,
 setup instructions, test evidence and documented limitations.
 
 Original repository:
